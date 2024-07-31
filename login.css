@@ -1,0 +1,41 @@
+body{
+background-color: blanchedalmond;
+text-align: center;
+}
+.v{
+
+    border: 3px solid black;
+    height: 80vh;
+    width: 60vh;
+    text-align: center;
+    background-color:white   ;
+     border-radius: 5px;
+}
+.vx{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.vy{
+
+}
+.login{
+margin-bottom: 2rem;
+
+}
+.form{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 5rem;
+}
+.submit{
+margin-top: 3rem;
+
+}
+.submit:hover{
+background-color: aqua;
+}
+.input{
+height: 30px;
+}

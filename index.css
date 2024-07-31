@@ -1,0 +1,56 @@
+
+.form{
+padding-left: 6 rem;
+text-align: center;
+color: rgb(18, 16, 16);
+size: 40rem;
+border: 2px solid black;
+width: 50%;
+
+height: 80vh;
+}
+.full{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#rite{
+color: blue;
+text-decoration: bold;
+
+}
+
+.container{
+    /* align-items: flex-end; */
+    color: rgb(13, 18, 18);
+    justify-content: space-evenly;
+    text-align: center;
+    box-sizing: square;
+
+
+
+}
+.r1{
+  margin-bottom: 1rem;
+}
+
+.r2{
+    margin-bottom: 2rem;
+  }
+  .r3{
+    margin-bottom: 3rem;
+  }
+  .r4{
+    margin-bottom: 4rem;
+  }
+
+.xx:hover{
+color: blue;
+background-color: rgb(158, 16, 187);
+
+}
+body{
+    background-color: aqua;
+}
